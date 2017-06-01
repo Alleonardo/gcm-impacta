@@ -47,3 +47,6 @@ Versoes do Android
 # 3.6 Android 4.1/4.2/4.3 - Jelly Bean.
 # 3.7 Android 4.4 - KitKat.
 # 3.8 Android 5.0/5.1 - Lollipop.
+
+
+Aula realizada em 31/05/2017
